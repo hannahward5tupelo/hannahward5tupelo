@@ -657,6 +657,7 @@ li.social-links a {
 
 .section.db {
     background-color: #f2f3f5;
+	
 }
 
 .section.color1 {
@@ -2307,8 +2308,8 @@ select.mobile-device {
     background-color: #1f1f1f;
     box-sizing: border-box;
     width: 100%;
-    text-align: left;
-    padding: 50px 60px;
+    text-align: center;
+    padding: 20px 0px;
     overflow: hidden;
 }
 
