@@ -2309,6 +2309,7 @@ select.mobile-device {
     box-sizing: border-box;
     width: 100%;
     text-align: center;
+margin-bottom: -95px;
     padding: 20px 0px 0px 0px;
     overflow: hidden;
 }
