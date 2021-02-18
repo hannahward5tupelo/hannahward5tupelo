@@ -2309,7 +2309,7 @@ select.mobile-device {
     box-sizing: border-box;
     width: 100%;
     text-align: center;
-    padding: 20px 0px;
+    padding: 20px 0px 0px 0px;
     overflow: hidden;
 }
 
