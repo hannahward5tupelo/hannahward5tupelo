@@ -704,10 +704,11 @@ li.social-links a {
     margin-bottom: 60px;
 }
 
+/*main bio*/
 .section-title p {
     color: #999;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 33px;
     margin: 0;
 }
