@@ -122,7 +122,8 @@ h2 {
 }
 
 h3 {
-    font-size: 18px
+    font-size: 18px;
+
 }
 
 h4 {
@@ -725,7 +726,7 @@ li.social-links a {
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3 {
-    color: #000000;
+    color: #ffffff;
 }
 
 
@@ -1359,7 +1360,8 @@ li.social-links a {
 }
 
 .hover-up{
-	background: #3C4A9E;
+	background: #;
+        color: #ffffff;
 }
 
 .service-widget .post-media_pp .hover-up{
