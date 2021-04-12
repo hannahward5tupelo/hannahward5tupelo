@@ -1,0 +1,175 @@
+<div id="gallery" data-scroll-index="4" class="section db">
+		<div class="container">
+			<div class="section-title text-center">
+				<h3>Victor's Work</h3>
+				<p class="lead">Victor's professional and personal pursuits include working closely with non-profits,
+					civic organizations, municipal administrations, and state and federal agencies on a daily basis to
+					help improve the lives of Mississippians.
+				</p>
+			</div><!-- end title -->
+
+			<div class="gallery-menu row">
+				<div class="col-md-12">
+
+				</div>
+			</div>
+			<div class="gallery-list row">
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_b">
+					<div class="gallery-single fix">
+						<img src="uploads/13.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/13.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Food drive with local faith-based organizations</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-grid gal_c gal_b">
+					<div class="gallery-single fix">
+						<img src="uploads/9.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/9.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Food recovery with Tupelo-Lee County Hunger Coalition</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+					<div class="gallery-single fix">
+						<img src="uploads/4.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/4.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Litter pick-up with Keep Tupelo Beautiful</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-grid gal_b gal_a">
+					<div class="gallery-single fix">
+						<img src="uploads/1.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/1.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Street outreach with Tupelo Homeless Task Force</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+					<div class="gallery-single fix">
+						<img src="uploads/10.jpg" class="img-responsive img-rounded" alt="Image">
+						<div class="img-overlay">
+							<a href="uploads/10.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Completed Tupelo Police Department Citizens' Police Academy</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6 gallery-grid gal_c gal_d">
+					<div class="gallery-single fix">
+						<img src="uploads/12.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/12.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Volunteering with Tupelo Quality of Life Committee</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+					<div class="gallery-single fix">
+						<img src="uploads/14.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/14.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Instructing Cooking as a First Language kids' class</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+					<div class="gallery-single fix">
+						<img src="uploads/7.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/7.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Victor's Mongolian host family during her Peace Corps service</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
+					<div class="gallery-single fix">
+						<img src="uploads/8.jpg" class="img-responsive img-rounded" alt="Image" data-no-retina>
+						<div class="img-overlay">
+							<a href="uploads/8.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i
+									class="flaticon-unlink"></i></a>
+							<div class="hover-up">
+								<p>Received Extra Mile Hero Award with other members of Tupelo Community Outreach
+									Committee</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="section-title text-center">
+				<h3>Media Links</h3>
+				<ul style="list-style-type:none;">
+					<b>
+						<li><a href="https://advocacy.peacecorpsconnect.org/40-under-40" target="_blank">National Peace
+								Corps Association 40 Under 40</a></li>
+
+						<li><a href="https://www.wcbi.com/seminar-aims-to-help-people-spot-potential-human-trafficking-victims/"
+								target="_blank">Seminar Aims To Help People Spot Potential Human Trafficking Victims</a>
+						</li>
+
+						<li><a href="https://www.djournal.com/news/officials-human-trafficking-is-a-problem-in-northeast-mississippi/article_a43f882c-c77b-568e-98b2-df847dc95c94.html"
+								target="_blank">Officials: Human trafficking is a problem in Northeast Mississippi</a>
+						</li>
+
+						<li><a href="https://www.djournal.com/news/local/tupelo-homeless-count-show-reduction/article_20fda44c-da3a-5b2c-99ee-1b7f4f37dfbf.html"
+								target="_blank">Tupelo homeless count show reduction</a></li>
+
+						<li><a href="https://www.djournal.com/news/local/maharrey-gets-statewide-job-in-homeless-outreach/article_3988bc85-1301-5fef-9b8d-ca5fe22f06bb.html"
+								target="_blank">Maharrey gets statewide job in homeless outreach</a></li>
+
+
+						<li><a href="https://www.djournal.com/news/local/coalitions-outreach-to-homeless-veterans-earns-national-certification/article_8c9c300d-11fa-50f1-9d2f-75555c0d673b.html target="
+								_blank">Coalition's outreach to homeless veterans earns national certification</a></li>
+
+
+						<li><a href="http://mississippiedition.mpbonline.org/episodes/21021-building-vaccine-trust-in-black-community-ban-the-box-"
+								target="_blank">HUD & Homelessness (relevant material starts at 16:20)</a></li>
+					</b>
+				</ul>
+
+			</div>
+		</div>
