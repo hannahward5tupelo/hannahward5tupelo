@@ -165,8 +165,8 @@ h6 a:hover {
 }
 
 a {
-    color: #222222;
-    text-decoration: none;
+    color: #ed2728;
+    text-decoration: bold; 
     outline: none;
 }
 
